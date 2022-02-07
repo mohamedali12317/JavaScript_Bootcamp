@@ -4,7 +4,7 @@
 
 Recorded Videos => [ 133 From 200 ]
 
-![67%](https://progress-bar.dev/66/?title=Done)
+![73%](https://progress-bar.dev/66/?title=Done)
 
 ### Introduction
 
