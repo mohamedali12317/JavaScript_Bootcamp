@@ -180,14 +180,19 @@ Recorded Videos => [ 133 From 200 ]
 
 ### Regular Expressions
 
-- [ ] Intro And Creating a Regular Expression
-- [ ] Examples To Use Regular Expressions Patterns
-- [ ] Assertions
-- [ ] Meta Characters
-- [ ] Groups And Ranges
-- [ ] Quantifiers
-- [ ] Unicode Property Escapes
-- [ ] RegExp Challenge
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 134 -  Intro And Creating a Regular Expression
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 135 -   RegExp Modifiers 
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 136 - RegExp Ranges Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 137 - RegExp Ranges Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 138 - RegExp Character Classes Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 139 - RegExp Character Classes Part 2
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 140 - RegExp Quantifiers Part 1
+- [x] ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded`  - 141 - RegExp Quantifiers Part 2
+- [x]  ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 142 - RegExp Quantifiers Part 3
+- [x]  ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 143 - Replace With The RegExp Pattern
+- [x]  ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 144 - Form Validation Practice
+- [x]  ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 145 - Test Your RegExp And Discussions
+- [x]  ![#ff5722](https://via.placeholder.com/12/ff5722/000000?text=+) `Uploaded` - 146 - RegExp Challenge
 
 ### Generators And Modules
 
